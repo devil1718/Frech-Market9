@@ -1,0 +1,7 @@
+.brandCard{
+transition: 0.5s;
+}
+.brandCard:hover{
+    box-shadow: 10px 10px 10px rgb(164, 163, 163) !important;
+
+}

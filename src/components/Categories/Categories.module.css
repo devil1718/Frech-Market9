@@ -1,0 +1,7 @@
+.category:hover{
+    box-shadow: 10px 10px 10px rgb(164, 163, 163) !important;
+}
+.category{
+    transition: 0.5s;
+    cursor: pointer;
+}

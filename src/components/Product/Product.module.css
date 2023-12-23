@@ -1,0 +1,7 @@
+.alert{
+    top: 5%;
+    z-index: 9999999999999;
+    border-radius: 10px;
+    left: 50%;
+    transform: translateX(-50%);
+}
